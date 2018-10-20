@@ -12,6 +12,8 @@ namespace ConflictTestConsoleApp
         {
             Console.WriteLine("Conflict Test");
             Console.WriteLine("SublimeText üzerinden değiştirildi");
+
+            Console.WriteLine("DEV-00002 Branchi için 16. satırda conflict oluşturuldu.");
             Console.ReadKey();
         }
     }
