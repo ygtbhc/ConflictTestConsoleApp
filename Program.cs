@@ -11,7 +11,7 @@ namespace ConflictTestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Conflict Test");
-
+            Console.WriteLine("SublimeText üzerinden değiştirildi");
             Console.ReadKey();
         }
     }
