@@ -12,6 +12,9 @@ namespace ConflictTestConsoleApp
         {
             Console.WriteLine("Conflict Test");
             Console.WriteLine("SublimeText üzerinden değiştirildi");
+
+            Console.WriteLine("DEV-00001 Branchi için komut eklendi.");
+
             Console.ReadKey();
         }
     }
